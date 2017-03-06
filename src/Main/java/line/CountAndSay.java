@@ -1,7 +1,7 @@
 package line;
 
 /**
- * Created by patrickyu on 9/29/16.
+ * Created by on 9/29/16.
  */
 public interface CountAndSay {
 
